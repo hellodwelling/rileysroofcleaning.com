@@ -2,3 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://rileysroofcleaning.com/index</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://rileysroofcleaning.com/store</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://rileysroofcleaning.com/reviews</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://rileysroofcleaning.com/gallery-All</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://rileysroofcleaning.com/gallery-Before-and-After</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://rileysroofcleaning.com/service-Home-Softwash</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://rileysroofcleaning.com/service-Driveway-&-Sidewalk-Cleaning</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://rileysroofcleaning.com/service-Deck-&-Patio-Cleaning</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://rileysroofcleaning.com/service-Roof-Cleaning</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://rileysroofcleaning.com/service-Fence-Washing</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://rileysroofcleaning.com/service-Gutter-Cleaning</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://rileysroofcleaning.com/service-Commercial-Window-&-Skylight-Cleaning</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://rileysroofcleaning.com/service-Warehouse-Cleaning</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://rileysroofcleaning.com/service-Fleet-Washing</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://rileysroofcleaning.com/service-Other-Pressure-Washing-Services</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
